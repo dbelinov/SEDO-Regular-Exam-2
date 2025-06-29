@@ -1,2 +1,1 @@
-SEDO-Regular-Exam-2 README
-Jenkins Test
+SEDO-Regular-Exam-2 README - Jenkins Test
